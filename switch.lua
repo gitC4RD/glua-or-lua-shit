@@ -1,4 +1,5 @@
 --https://github.com/Purple-CARD/glua-or-lua-shit from u with <3
+--https://gist.github.com/FreeBirdLjj/6303864 original
 
 _G.switch = function(param, case_table)
     local case = case_table[param]
